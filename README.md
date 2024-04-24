@@ -29,10 +29,10 @@ Income
 -Median
 
 ### Questions
-1. What correlations do income and population have on access to public resources in Nashville? 
-2. What zipcodes in Nashville are least served? 
-3. What area has the most access? What area has the least?
-4. Does public wifi access directly correlate with population? Or Unemployment?
+1. What correlations do Unemployment, Income, and Population have on access to public resources in Nashville? 
+2. What area has the most access? What area has the least?
+3. Does public wifi access directly correlate with Population? Or Unemployment? Income?
+4. create an area score.
 
 #### Technologies Used
 Python
@@ -44,12 +44,21 @@ Git
 ##### Data Collection, Cleaning, and Normalisation
 The most recently available data was used for this project
 
+Getting all the data cleaned and formated correctly took well over 1000 lines of code, pulling data from over 30 source csv's.
 
 ###### Challenges
+Initially finding the zipcode data was hard, 
 
+The geospatial stuff was the most challenging on this project. 
+Trying to get maps that plot multiple resources is still an ongoing challenge.
 
 
 
 ###### SOURCES:
 CENSUS
 DATA.NASHVILLE.GOV
+
+###### FUTURE PLANS:
+i would like to bring in data like shelters(unhoused and womens), needle exchanges, foodbanks, and other rescouses to add to my dashboard. on top of that i would like bring in othe economic factors like race, poverty, computer access, and occupied homes, ect...
+
+further more i would like to re-analyze based on neighborhoods instead of zipcodes.
