@@ -62,3 +62,5 @@ DATA.NASHVILLE.GOV
 i would like to bring in data like shelters(unhoused and womens), needle exchanges, foodbanks, and other rescouses to add to my dashboard. on top of that i would like bring in othe economic factors like race, poverty, computer access, and occupied homes, ect...
 
 further more i would like to re-analyze based on neighborhoods instead of zipcodes.
+
+NOTE: If you would like a detailed walkthrough of this project, don't hesitate to reach out. I am still expanding the folium map in this project!
