@@ -65,3 +65,7 @@ i would like to bring in data like shelters(unhoused and womens), needle exchang
 further more i would like to re-analyze based on neighborhoods instead of zipcodes.
 
 NOTE: If you would like a detailed walkthrough of this project, don't hesitate to reach out. I am still expanding the folium map in this project!
+
+
+**UPDATES**
+5/5 started implementing markers in folium
