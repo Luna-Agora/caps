@@ -69,3 +69,4 @@ NOTE: If you would like a detailed walkthrough of this project, don't hesitate t
 
 **UPDATES**
 5/5 started implementing markers in folium
+5/12 added police stations in folium
